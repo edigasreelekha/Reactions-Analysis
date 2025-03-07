@@ -30,7 +30,8 @@ This analysis was presented as part of a larger project with Accenture, focusing
 ## Usage
 
 1.  **Data:** The [`social_buzz_reactions.csv`] file can be used for further analysis and visualization.()
-2.  **Analysis:** The ["Presentation of a data analysis.pdf"] provides context and insights derived from this data.()
+2.  **Analysis:** The "Presentation of a data analysis.pdf" provides context and insights derived from this data.
+3.  [Presentation](https://github.com/edigasreelekha/Reactions-Analysis/blob/main/Presentation%20of%20a%20data%20analysis%20(1).pdf)
 
 ## License
 
