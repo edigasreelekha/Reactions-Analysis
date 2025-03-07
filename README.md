@@ -36,7 +36,7 @@ This analysis was presented as part of a larger project with Accenture, focusing
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]()
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/edigasreelekha/License/blob/main/README.md)
 
 ## Contributing
 
